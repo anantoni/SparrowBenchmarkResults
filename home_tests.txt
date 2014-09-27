@@ -1,0 +1,124 @@
+anantoni@anantoni-pc:~/project_ds/SparrowWorker$ ./print_tasks_per_worker.sh 
+49728 ../SparrowWorker/log/stats.txt
+49892 ../SparrowWorker_1/log/stats.txt
+50046 ../SparrowWorker_2/log/stats.txt
+50334 ../SparrowWorker_3/log/stats.txt
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker$ ./print_log.sh 
+Fri 2014.09.26 at 05:35:55 PM EEST sleep 18 finished
+Fri 2014.09.26 at 05:56:26 PM EEST sleep 86 finished
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_1$ ./print_log.sh 
+Fri 2014.09.26 at 05:35:55 PM EEST sleep 18 finished
+Fri 2014.09.26 at 05:56:13 PM EEST sleep 86 finished
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_2$ ./print_log.sh 
+Fri 2014.09.26 at 05:35:55 PM EEST sleep 18 finished
+Fri 2014.09.26 at 05:56:31 PM EEST sleep 292 finished
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_3$ ./print_log.sh 
+Fri 2014.09.26 at 05:35:55 PM EEST sleep 18 finished
+Fri 2014.09.26 at 05:56:45 PM EEST sleep 86 finished
+
+49989 ../SparrowWorker/log/stats.txt
+50058 ../SparrowWorker_1/log/stats.txt
+49984 ../SparrowWorker_2/log/stats.txt
+49969 ../SparrowWorker_3/log/stats.txt
+
+Fri 2014.09.26 at 06:21:35 PM EEST sleep 37 finished
+Fri 2014.09.26 at 06:42:37 PM EEST sleep 59 finished
+
+Fri 2014.09.26 at 06:21:35 PM EEST sleep 37 finished
+Fri 2014.09.26 at 06:42:31 PM EEST sleep 137 finished
+
+Fri 2014.09.26 at 06:21:35 PM EEST sleep 37 finished
+Fri 2014.09.26 at 06:42:46 PM EEST sleep 59 finished
+
+Fri 2014.09.26 at 06:21:35 PM EEST sleep 37 finished
+Fri 2014.09.26 at 06:42:29 PM EEST sleep 137 finished
+
+Saturday 27/09/2014 tests
+
+SET UP: 1 node for client-scheduler, 1 node for 4 workers
+Policy: Per-Task
+Workload: 200.000 tasks, mean 100ms
+
+49970 ../SparrowWorker/log/stats.txt
+50305 ../SparrowWorker_1/log/stats.txt
+49814 ../SparrowWorker_2/log/stats.txt
+49911 ../SparrowWorker_3/log/stats.txt
+19656 ../SparrowWorker_4/log/stats.txt
+19550 ../SparrowWorker_5/log/stats.txt
+19432 ../SparrowWorker_6/log/stats.txt
+19509 ../SparrowWorker_7/log/stats.txt
+19316 ../SparrowWorker_8/log/stats.txt
+19497 ../SparrowWorker_9/log/stats.txt
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker$ ./print_log.sh 
+Sat 2014.09.27 at 04:36:21 PM EEST sleep 23 finished
+Sat 2014.09.27 at 04:57:24 PM EEST sleep 175 finished
+
+Duration: 21:03
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_1$ ./print_log.sh 
+Sat 2014.09.27 at 04:36:21 PM EEST sleep 17 finished
+Sat 2014.09.27 at 04:57:26 PM EEST sleep 326 finished
+
+Duration: 21:05
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_2$ ./print_log.sh 
+Sat 2014.09.27 at 04:36:21 PM EEST sleep 17 finished
+Sat 2014.09.27 at 04:57:24 PM EEST sleep 80 finished
+
+Duration: 21:03
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_3$ ./print_log.sh 
+Sat 2014.09.27 at 04:36:21 PM EEST sleep 17 finished
+Sat 2014.09.27 at 04:57:22 PM EEST sleep 80 finished
+
+Duration: 21:05
+
+SET UP: 1 node for client-scheduler, 1 node for 4 workers
+Policy: Random
+Workload: 200.000 tasks, mean 100ms
+
+50273 ../SparrowWorker/log/stats.txt
+50041 ../SparrowWorker_1/log/stats.txt
+49847 ../SparrowWorker_2/log/stats.txt
+49839 ../SparrowWorker_3/log/stats.txt
+19656 ../SparrowWorker_4/log/stats.txt
+19550 ../SparrowWorker_5/log/stats.txt
+19432 ../SparrowWorker_6/log/stats.txt
+19509 ../SparrowWorker_7/log/stats.txt
+19316 ../SparrowWorker_8/log/stats.txt
+19497 ../SparrowWorker_9/log/stats.txt
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker$ ./print_log.sh 
+Sat 2014.09.27 at 05:05:42 PM EEST sleep 1 finished
+Sat 2014.09.27 at 05:26:34 PM EEST sleep 316 finished
+
+Duration: 20:52
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_1$ ./print_log.sh 
+Sat 2014.09.27 at 05:05:42 PM EEST sleep 154 finished
+Sat 2014.09.27 at 05:26:17 PM EEST sleep 316 finished
+
+Duration: 20:25
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_2$ ./print_log.sh 
+Sat 2014.09.27 at 05:05:42 PM EEST sleep 192 finished
+Sat 2014.09.27 at 05:26:21 PM EEST sleep 196 finished
+
+Duration: 20:29
+
+anantoni@anantoni-pc:~/project_ds/SparrowWorker_3$ ./print_log.sh 
+Sat 2014.09.27 at 05:05:42 PM EEST sleep 154 finished
+Sat 2014.09.27 at 05:26:18 PM EEST sleep 316 finished
+
+Duration: 20:26
+
+
+
+
+
+

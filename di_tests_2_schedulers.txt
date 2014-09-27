@@ -1,0 +1,224 @@
+200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 8 workers
+
+Random:
+==========================================================================
+
+24765 ../SparrowWorker/log/stats.txt
+25049 ../SparrowWorker_1/log/stats.txt
+25217 ../SparrowWorker_2/log/stats.txt
+25134 ../SparrowWorker_3/log/stats.txt
+24881 ../SparrowWorker_4/log/stats.txt
+25413 ../SparrowWorker_5/log/stats.txt
+24838 ../SparrowWorker_6/log/stats.txt
+24703 ../SparrowWorker_7/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrowWorker>./print_log.sh 
+Sat 2014.09.27 at 11:34:27 PM EEST sleep 34 finished
+Sat 2014.09.27 at 11:44:47 PM EEST sleep 251 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh 
+Sat 2014.09.27 at 11:34:31 PM EEST sleep 34 finished
+Sat 2014.09.27 at 11:44:55 PM EEST sleep 251 finished
+
+linux19:/home/users/grad1302/project_ds/SparrWorker_2>./print_log.sh 
+Sat 2014.09.27 at 11:34:41 PM EEST sleep 7 finished
+Sat 2014.09.27 at 11:45:09 PM EEST sleep 251 finished
+
+linux20:/home/users/grad1302/project_ds/SparrowWorker_3>./print_log.sh 
+Sat 2014.09.27 at 11:34:45 PM EEST sleep 130 finished
+Sat 2014.09.27 at 11:45:07 PM EEST sleep 247 finished
+
+linux22:/home/users/grad1302/project_ds/SparrowWorker_4>./print_log.sh 
+Sat 2014.09.27 at 11:34:37 PM EEST sleep 7 finished
+Sat 2014.09.27 at 11:44:54 PM EEST sleep 247 finished
+
+linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh 
+Sat 2014.09.27 at 11:34:28 PM EEST sleep 34 finished
+Sat 2014.09.27 at 11:45:04 PM EEST sleep 76 finished
+
+linux07:/home/users/grad1302/project_ds/SparrowWorker_6>./print_log.sh 
+Sat 2014.09.27 at 11:34:54 PM EEST sleep 52 finished
+Sat 2014.09.27 at 11:45:06 PM EEST sleep 247 finished
+
+linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
+Sat 2014.09.27 at 11:35:06 PM EEST sleep 7 finished
+Sat 2014.09.27 at 11:45:21 PM EEST sleep 247 finished
+
+Per-task:
+==========================================================================
+
+24847 ../SparrowWorker/log/stats.txt
+25025 ../SparrowWorker_1/log/stats.txt
+25082 ../SparrowWorker_2/log/stats.txt
+25004 ../SparrowWorker_3/log/stats.txt
+25010 ../SparrowWorker_4/log/stats.txt
+25025 ../SparrowWorker_5/log/stats.txt
+24972 ../SparrowWorker_6/log/stats.txt
+25035 ../SparrowWorker_7/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrWorker>./print_log.sh        
+Sat 2014.09.27 at 11:52:34 PM EEST sleep 9 finished
+Sun 2014.09.28 at 12:02:50 AM EEST sleep 445 finished
+
+linux17:/home/users/grad1302/project_ds/SparrWorker_1>./print_log.sh                        
+Sat 2014.09.27 at 11:52:38 PM EEST sleep 9 finished
+Sun 2014.09.28 at 12:02:53 AM EEST sleep 445 finished
+
+linux19:/home/users/grad1302/project_ds/SparrWorker_2>./print_log.sh                        
+Sat 2014.09.27 at 11:52:48 PM EEST sleep 9 finished
+Sun 2014.09.28 at 12:03:04 AM EEST sleep 124 finished
+
+linux20:/home/users/grad1302/project_ds/SparrowWorker_3>./print_log.sh 
+Sat 2014.09.27 at 11:52:51 PM EEST sleep 40 finished
+Sun 2014.09.28 at 12:03:03 AM EEST sleep 445 finished
+
+linux22:/home/users/grad1302/project_ds/SparrowWorker_4>./print_log.sh 
+Sat 2014.09.27 at 11:52:43 PM EEST sleep 9 finished
+Sun 2014.09.28 at 12:03:03 AM EEST sleep 445 finished
+
+linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh 
+Sat 2014.09.27 at 11:52:35 PM EEST sleep 132 finished
+Sun 2014.09.28 at 12:02:52 AM EEST sleep 445 finished
+
+linux07:/home/users/grad1302/project_ds/SparrowWorker_6>./print_log.sh 
+Sat 2014.09.27 at 11:53:01 PM EEST sleep 9 finished
+Sun 2014.09.28 at 12:03:19 AM EEST sleep 445 finished
+
+linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
+Sat 2014.09.27 at 11:53:13 PM EEST sleep 40 finished
+Sun 2014.09.28 at 12:03:31 AM EEST sleep 137 finished
+
+--------------------------------------------------------------------------
+
+
+200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 10 workers
+
+Random:
+==========================================================================
+
+20094 ../SparrowWorker/log/stats.txt
+19810 ../SparrowWorker_1/log/stats.txt
+19734 ../SparrowWorker_2/log/stats.txt
+20071 ../SparrowWorker_3/log/stats.txt
+20200 ../SparrowWorker_4/log/stats.txt
+19773 ../SparrowWorker_5/log/stats.txt
+19959 ../SparrowWorker_6/log/stats.txt
+20117 ../SparrowWorker_7/log/stats.txt
+20126 ../SparrowWorker_8/log/stats.txt
+20116 ../SparrowWorker_9/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrWorker>./print_log.sh                          
+Sat 2014.09.27 at 10:59:03 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:22 PM EEST sleep 74 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh
+Sat 2014.09.27 at 10:59:07 PM EEST sleep 157 finished
+Sat 2014.09.27 at 11:07:25 PM EEST sleep 74 finished
+
+linux19:/home/users/grad1302/project_ds/SparrWorker_2>./print_log.sh 
+Sat 2014.09.27 at 10:59:17 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:31 PM EEST sleep 810 finished
+
+linux20:/home/users/grad1302/project_ds/SparrowWorker_3>./print_log.sh 
+Sat 2014.09.27 at 10:59:21 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:37 PM EEST sleep 810 finished
+
+linux22:/home/users/grad1302/project_ds/SparrowWorker_4>./print_log.sh 
+Sat 2014.09.27 at 10:59:12 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:40 PM EEST sleep 97 finished
+
+linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh 
+Sat 2014.09.27 at 10:59:04 PM EEST sleep 61 finished
+Sat 2014.09.27 at 11:07:12 PM EEST sleep 810 finished
+
+linux07:/home/users/grad1302/project_ds/SparrowWorker_6>./print_log.sh 
+Sat 2014.09.27 at 10:59:30 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:53 PM EEST sleep 97 finished
+
+linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
+Sat 2014.09.27 at 10:59:42 PM EEST sleep 27 finished
+Sat 2014.09.27 at 11:08:04 PM EEST sleep 24 finished
+
+linux09:/home/users/grad1302/project_ds/SparrowWorker_8>./print_log.sh 
+Sat 2014.09.27 at 10:59:24 PM EEST sleep 255 finished
+Sat 2014.09.27 at 11:07:46 PM EEST sleep 810 finished
+
+linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh 
+Sat 2014.09.27 at 10:59:01 PM EEST sleep 6 finished
+Sat 2014.09.27 at 11:07:24 PM EEST sleep 74 finished
+
+Per-task:
+==========================================================================
+
+20116 ../SparrowWorker/log/stats.txt
+19931 ../SparrowWorker_1/log/stats.txt
+19961 ../SparrowWorker_2/log/stats.txt
+20042 ../SparrowWorker_3/log/stats.txt
+19968 ../SparrowWorker_4/log/stats.txt
+20038 ../SparrowWorker_5/log/stats.txt
+20050 ../SparrowWorker_6/log/stats.txt
+19953 ../SparrowWorker_7/log/stats.txt
+19975 ../SparrowWorker_8/log/stats.txt
+19966 ../SparrowWorker_9/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrowWorker>./print_log.sh 
+Sat 2014.09.27 at 11:16:06 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:24:28 PM EEST sleep 305 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh 
+Sat 2014.09.27 at 11:16:10 PM EEST sleep 44 finished
+Sat 2014.09.27 at 11:24:39 PM EEST sleep 305 finished
+
+linux19:/home/users/grad1302/project_ds/SparrWorker_2>./print_log.sh 
+Sat 2014.09.27 at 11:16:20 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:24:45 PM EEST sleep 139 finished
+
+linux20:/home/users/grad1302/project_ds/SparrowWorker_3>./print_log.sh 
+Sat 2014.09.27 at 11:16:24 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:24:48 PM EEST sleep 139 finished
+
+linux22:/home/users/grad1302/project_ds/SparrowWorker_4>./print_log.sh 
+Sat 2014.09.27 at 11:16:15 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:24:42 PM EEST sleep 81 finished
+
+linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh 
+Sat 2014.09.27 at 11:16:07 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:24:34 PM EEST sleep 139 finished
+
+linux07:/home/users/grad1302/project_ds/SparrowWorker_6>./print_log.sh 
+Sat 2014.09.27 at 11:16:33 PM EEST sleep 44 finished
+Sat 2014.09.27 at 11:25:02 PM EEST sleep 139 finished
+
+linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
+Sat 2014.09.27 at 11:16:45 PM EEST sleep 45 finished
+Sat 2014.09.27 at 11:25:02 PM EEST sleep 139 finished
+
+linux09:/home/users/grad1302/project_ds/SparrowWorker_8>./print_log.sh 
+Sat 2014.09.27 at 11:16:27 PM EEST sleep 44 finished
+Sat 2014.09.27 at 11:24:45 PM EEST sleep 139 finished
+
+linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh 
+Sat 2014.09.27 at 11:16:04 PM EEST sleep 59 finished
+Sat 2014.09.27 at 11:24:24 PM EEST sleep 139 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh 
+Sat 2014.09.27 at 11:16:10 PM EEST sleep 44 finished
+Sat 2014.09.27 at 11:24:39 PM EEST sleep 305 finished
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
