@@ -132,6 +132,41 @@ linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh
 Sat 2014.09.27 at 07:14:41 PM EEST sleep 35 finished
 Sat 2014.09.27 at 07:28:38 PM EEST sleep 224 finished
 
+==========================================================================
+Batch Sampling:
+==========================================================================
+
+34140 ../SparrowWorker/log/stats.txt
+33190 ../SparrowWorker_1/log/stats.txt
+32510 ../SparrowWorker_2/log/stats.txt
+32980 ../SparrowWorker_3/log/stats.txt
+33210 ../SparrowWorker_4/log/stats.txt
+33970 ../SparrowWorker_5/log/stats.txt
+
+linux08:/home/users/grad1302/projects/SparrowWorker>./print_log.sh        
+Mon 2014.09.29 at 02:10:39 AM EEST sleep 42 finished
+Mon 2014.09.29 at 02:24:32 AM EEST sleep 69 finished
+
+linux17:/home/users/grad1302/projecds/SparrowWorker_1>./print_log.sh    
+Mon 2014.09.29 at 02:10:45 AM EEST sleep 101 finished
+Mon 2014.09.29 at 02:25:18 AM EEST sleep 96 finished
+
+linux19:/home/users/grad1302/projects/SparrowWorker_2>./print_log.sh      
+Mon 2014.09.29 at 02:10:55 AM EEST sleep 185 finished
+Mon 2014.09.29 at 02:25:15 AM EEST sleep 107 finished
+
+linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh      
+Mon 2014.09.29 at 02:10:59 AM EEST sleep 90 finished
+Mon 2014.09.29 at 02:25:37 AM EEST sleep 31 finished
+
+linux22:/home/users/grad1302/projects/SparrowWorker_4>./print_log.sh 
+Mon 2014.09.29 at 02:10:51 AM EEST sleep 38 finished
+Mon 2014.09.29 at 02:25:25 AM EEST sleep 45 finished
+
+linux23:/home/users/grad1302/projecds/SparrowWorker_5>./print_log.sh    
+Mon 2014.09.29 at 02:10:42 AM EEST sleep 216 finished
+Mon 2014.09.29 at 02:24:59 AM EEST sleep 68 finished
+
 --------------------------------------------------------------------------
 
 200.000 tasks - 100ms mean 
@@ -225,6 +260,51 @@ Sun 2014.09.28 at 12:24:25 AM EEST sleep 151 finished
 linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
 Sun 2014.09.28 at 12:14:25 AM EEST sleep 17 finished
 Sun 2014.09.28 at 12:24:47 AM EEST sleep 241 finished
+
+==========================================================================
+Batch Sampling:
+==========================================================================
+
+25380 ../SparrowWorker/log/stats.txt
+25310 ../SparrowWorker_1/log/stats.txt
+24240 ../SparrowWorker_2/log/stats.txt
+25220 ../SparrowWorker_3/log/stats.txt
+24500 ../SparrowWorker_4/log/stats.txt
+25210 ../SparrowWorker_5/log/stats.txt
+24930 ../SparrowWorker_6/log/stats.txt
+25210 ../SparrowWorker_7/log/stats.txt
+
+linux08:/home/users/grad1302/projects/SparrowWorker>./print_log.sh        
+Mon 2014.09.29 at 01:50:49 AM EEST sleep 31 finished
+Mon 2014.09.29 at 02:01:24 AM EEST sleep 42 finished
+
+linux17:/home/users/grad130ds/SparrowWorker_1>./print_log.sh    
+Mon 2014.09.29 at 01:50:55 AM EEST sleep 144 finished
+Mon 2014.09.29 at 02:01:31 AM EEST sleep 111 finished
+
+linux19:/home/users/grad1302/projects/SparrowWorker_2>./print_log.sh      
+Mon 2014.09.29 at 01:51:05 AM EEST sleep 25 finished
+Mon 2014.09.29 at 02:01:23 AM EEST sleep 65 finished
+
+linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh      
+Mon 2014.09.29 at 01:51:09 AM EEST sleep 0 finished
+Mon 2014.09.29 at 02:02:11 AM EEST sleep 146 finished
+
+linux22:/home/users/grad1302/projects/SparrowWorker_4>./print_log.sh      
+Mon 2014.09.29 at 01:51:02 AM EEST sleep 303 finished
+Mon 2014.09.29 at 02:01:22 AM EEST sleep 16 finished
+
+linux23:/home/users/grad1302/projecds/SparrowWorker_5>./print_log.sh    
+Mon 2014.09.29 at 01:50:52 AM EEST sleep 7 finished
+Mon 2014.09.29 at 02:01:22 AM EEST sleep 12 finished
+
+linux07:/home/users/grad1302/projects/SparrowWorker_6>./print_log.sh      
+Mon 2014.09.29 at 01:51:20 AM EEST sleep 9 finished
+Mon 2014.09.29 at 02:01:49 AM EEST sleep 29 finished
+
+linux03:/home/users/grad1302/projecds/SparrowWorker_7>./print_log.sh    
+Mon 2014.09.29 at 01:51:33 AM EEST sleep 7 finished
+Mon 2014.09.29 at 02:02:17 AM EEST sleep 64 finished
 
 --------------------------------------------------------------------------
 
