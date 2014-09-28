@@ -340,6 +340,68 @@ linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh
 Sat 2014.09.27 at 07:49:55 PM EEST sleep 0 finished
 Sat 2014.09.27 at 07:58:18 PM EEST sleep 134 finished
 
+==========================================================================
+Batch Sampling:
+==========================================================================
+
+19670 ../SparrowWorker/log/stats.txt
+20600 ../SparrowWorker_1/log/stats.txt
+20350 ../SparrowWorker_2/log/stats.txt
+19660 ../SparrowWorker_3/log/stats.txt
+20170 ../SparrowWorker_4/log/stats.txt
+19960 ../SparrowWorker_5/log/stats.txt
+20140 ../SparrowWorker_6/log/stats.txt
+19890 ../SparrowWorker_7/log/stats.txt
+19630 ../SparrowWorker_8/log/stats.txt
+19930 ../SparrowWorker_9/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrowWorker>./print_log.sh 
+Sun 2014.09.28 at 08:52:32 PM EEST sleep 113 finished
+Sun 2014.09.28 at 09:00:46 PM EEST sleep 71 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh 
+Sun 2014.09.28 at 08:52:37 PM EEST sleep 22 finished
+Sun 2014.09.28 at 09:01:00 PM EEST sleep 38 finished
+
+linux19:/home/users/grad1302/project_ds/SparrowWorker_2>./print_log.sh 
+Sun 2014.09.28 at 08:52:47 PM EEST sleep 12 finished
+Sun 2014.09.28 at 09:01:12 PM EEST sleep 191 finished
+
+linux20:/home/users/grad1302/project_ds/SparrowWorker_3>./print_log.sh 
+Sun 2014.09.28 at 08:52:50 PM EEST sleep 14 finished
+Sun 2014.09.28 at 09:00:52 PM EEST sleep 20 finished
+
+linux22:/home/users/grad1302/project_ds/SparrowWorker_4>./print_log.sh 
+Sun 2014.09.28 at 08:52:43 PM EEST sleep 158 finished
+Sun 2014.09.28 at 09:00:59 PM EEST sleep 29 finished
+
+linux23:/home/users/grad1302/project_ds/SparrowWorker_5>./print_log.sh 
+Sun 2014.09.28 at 08:52:33 PM EEST sleep 64 finished
+Sun 2014.09.28 at 09:01:01 PM EEST sleep 22 finished
+
+linux07:/home/users/grad1302/project_ds/SparrowWorker_6>./print_log.sh 
+Sun 2014.09.28 at 08:53:01 PM EEST sleep 145 finished
+Sun 2014.09.28 at 09:01:14 PM EEST sleep 9 finished
+
+linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh 
+Sun 2014.09.28 at 08:53:13 PM EEST sleep 34 finished
+Sun 2014.09.28 at 09:01:36 PM EEST sleep 126 finished
+
+linux09:/home/users/grad1302/project_ds/SparrowWorker_8>./print_log.sh 
+Sun 2014.09.28 at 08:52:54 PM EEST sleep 158 finished
+Sun 2014.09.28 at 09:01:10 PM EEST sleep 98 finished
+
+linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh 
+Sun 2014.09.28 at 08:52:30 PM EEST sleep 27 finished
+Sun 2014.09.28 at 09:00:44 PM EEST sleep 321 finished
+
+
+
+
+
+
+
+
 
 
 

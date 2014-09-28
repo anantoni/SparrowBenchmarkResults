@@ -38,10 +38,11 @@ Fri 2014.09.26 at 06:21:35 PM EEST sleep 37 finished
 Fri 2014.09.26 at 06:42:29 PM EEST sleep 137 finished
 
 Saturday 27/09/2014 tests
-
+==========================================================================
 SET UP: 1 node for client-scheduler, 1 node for 4 workers
 Policy: Per-Task
 Workload: 200.000 tasks, mean 100ms
+==========================================================================
 
 49970 ../SparrowWorker/log/stats.txt
 50305 ../SparrowWorker_1/log/stats.txt
@@ -86,12 +87,6 @@ Workload: 200.000 tasks, mean 100ms
 50041 ../SparrowWorker_1/log/stats.txt
 49847 ../SparrowWorker_2/log/stats.txt
 49839 ../SparrowWorker_3/log/stats.txt
-19656 ../SparrowWorker_4/log/stats.txt
-19550 ../SparrowWorker_5/log/stats.txt
-19432 ../SparrowWorker_6/log/stats.txt
-19509 ../SparrowWorker_7/log/stats.txt
-19316 ../SparrowWorker_8/log/stats.txt
-19497 ../SparrowWorker_9/log/stats.txt
 
 anantoni@anantoni-pc:~/project_ds/SparrowWorker$ ./print_log.sh 
 Sat 2014.09.27 at 05:05:42 PM EEST sleep 1 finished
@@ -117,6 +112,22 @@ Sat 2014.09.27 at 05:26:18 PM EEST sleep 316 finished
 
 Duration: 20:26
 
+==========================================================================
+SET UP: 1 node for client-scheduler, 1 node for 10 workers
+Policy: Batch
+Workload: 200.000 tasks, mean 100ms
+==========================================================================
+
+19460 ../SparrowWorker/log/stats.txt
+19980 ../SparrowWorker_1/log/stats.txt
+19260 ../SparrowWorker_2/log/stats.txt
+19690 ../SparrowWorker_3/log/stats.txt
+20900 ../SparrowWorker_4/log/stats.txt
+20040 ../SparrowWorker_5/log/stats.txt
+20730 ../SparrowWorker_6/log/stats.txt
+19840 ../SparrowWorker_7/log/stats.txt
+20260 ../SparrowWorker_8/log/stats.txt
+19840 ../SparrowWorker_9/log/stats.txt
 
 
 

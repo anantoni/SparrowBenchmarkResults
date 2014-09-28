@@ -1,5 +1,86 @@
-200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 8 workers
+200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 4 workers
+==========================================================================
+Random:
+==========================================================================
 
+
+
+
+200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 6 workers
+==========================================================================
+Random:
+==========================================================================
+
+33296 ../SparrowWorker/log/stats.txt
+33245 ../SparrowWorker_1/log/stats.txt
+33215 ../SparrowWorker_2/log/stats.txt
+33447 ../SparrowWorker_3/log/stats.txt
+33600 ../SparrowWorker_4/log/stats.txt
+33197 ../SparrowWorker_5/log/stats.txt
+
+linux08:/home/users/grad1302/projects/SparrowWorker>./print_log.sh        
+Sun 2014.09.28 at 09:56:09 PM EEST sleep 22 finished
+Sun 2014.09.28 at 10:09:52 PM EEST sleep 489 finished
+
+linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh    
+Sun 2014.09.28 at 09:56:14 PM EEST sleep 22 finished
+Sun 2014.09.28 at 10:10:09 PM EEST sleep 489 finished
+
+linux19:/home/users/grad1302/projects/SparrowWorker_2>./print_log.sh      
+Sun 2014.09.28 at 09:56:24 PM EEST sleep 61 finished
+Sun 2014.09.28 at 10:10:17 PM EEST sleep 124 finished
+
+linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh      
+Sun 2014.09.28 at 09:56:27 PM EEST sleep 61 finished
+Sun 2014.09.28 at 10:10:31 PM EEST sleep 476 finished
+
+linux22:/home/users/grad1302/projects/SparrowWorker_4>./print_log.sh      
+Sun 2014.09.28 at 09:56:19 PM EEST sleep 22 finished
+Sun 2014.09.28 at 10:10:17 PM EEST sleep 489 finished
+
+linux23:/home/users/grad1302/projecds/SparrowWorker_5>./print_log.sh    
+Sun 2014.09.28 at 09:56:10 PM EEST sleep 22 finished
+Sun 2014.09.28 at 10:09:51 PM EEST sleep 489 finished
+
+==========================================================================
+Per-task:
+==========================================================================
+
+33197 ../SparrowWorker/log/stats.txt
+33326 ../SparrowWorker_1/log/stats.txt
+33311 ../SparrowWorker_2/log/stats.txt
+33527 ../SparrowWorker_3/log/stats.txt
+33377 ../SparrowWorker_4/log/stats.txt
+33262 ../SparrowWorker_5/log/stats.txt
+
+linux08:/home/users/grad1302/project_ds/SparrowWorker>./print_log.sh 
+Sun 2014.09.28 at 10:17:41 PM EEST sleep 37 finished
+Sun 2014.09.28 at 10:31:27 PM EEST sleep 398 finished
+
+linux17:/home/users/grad1302/projds/SparrowWorker_1>./print_log.sh    
+Sun 2014.09.28 at 10:17:46 PM EEST sleep 172 finished
+Sun 2014.09.28 at 10:31:33 PM EEST sleep 398 finished
+
+linux19:/home/users/grad1302/projects/SparrowWorker_2>./print_log.sh      
+Sun 2014.09.28 at 10:17:56 PM EEST sleep 37 finished
+Sun 2014.09.28 at 10:31:42 PM EEST sleep 398 finished
+
+linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh      
+Sun 2014.09.28 at 10:18:00 PM EEST sleep 37 finished
+Sun 2014.09.28 at 10:31:46 PM EEST sleep 398 finished
+
+linux22:/home/users/grad1302/projects/SparrowWorker_4>./print_log.sh      
+Sun 2014.09.28 at 10:17:52 PM EEST sleep 37 finished
+Sun 2014.09.28 at 10:31:39 PM EEST sleep 398 finished
+
+linux23:/home/users/grad1302/projecds/SparrowWorker_5>./print_log.sh    
+Sun 2014.09.28 at 10:17:42 PM EEST sleep 37 finished
+Sun 2014.09.28 at 10:31:31 PM EEST sleep 14 finished
+
+--------------------------------------------------------------------------
+
+200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 8 workers
+==========================================================================
 Random:
 ==========================================================================
 
