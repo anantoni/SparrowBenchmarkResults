@@ -25,7 +25,7 @@ Sun 2014.09.28 at 10:42:29 PM EEST sleep 92 finished
 Sun 2014.09.28 at 11:03:06 PM EEST sleep 72 finished
 
 ==========================================================================
-Per-task:
+Per-task sampling:
 ==========================================================================
 
 50043 ../SparrowWorker/log/stats.txt
@@ -50,6 +50,10 @@ Sun 2014.09.28 at 11:08:34 PM EEST sleep 141 finished
 Sun 2014.09.28 at 11:29:41 PM EEST sleep 105 finished
 
 --------------------------------------------------------------------------
+
+==========================================================================
+Batch sampling:
+==========================================================================
 
 200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 6 workers
 ==========================================================================
@@ -88,7 +92,7 @@ Sun 2014.09.28 at 09:56:10 PM EEST sleep 22 finished
 Sun 2014.09.28 at 10:09:51 PM EEST sleep 489 finished
 
 ==========================================================================
-Per-task:
+Per-task sampling:
 ==========================================================================
 
 33197 ../SparrowWorker/log/stats.txt
@@ -170,7 +174,8 @@ linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh
 Sat 2014.09.27 at 11:35:06 PM EEST sleep 7 finished
 Sat 2014.09.27 at 11:45:21 PM EEST sleep 247 finished
 
-Per-task:
+==========================================================================
+Per-task sampling:
 ==========================================================================
 
 24847 ../SparrowWorker/log/stats.txt
@@ -216,9 +221,8 @@ Sun 2014.09.28 at 12:03:31 AM EEST sleep 137 finished
 
 --------------------------------------------------------------------------
 
-
 200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 10 workers
-
+==========================================================================
 Random:
 ==========================================================================
 
@@ -273,7 +277,8 @@ linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh
 Sat 2014.09.27 at 10:59:01 PM EEST sleep 6 finished
 Sat 2014.09.27 at 11:07:24 PM EEST sleep 74 finished
 
-Per-task:
+==========================================================================
+Per-task sampling:
 ==========================================================================
 
 20116 ../SparrowWorker/log/stats.txt
@@ -326,10 +331,6 @@ Sat 2014.09.27 at 11:24:45 PM EEST sleep 139 finished
 linux25:/home/users/grad1302/project_ds/SparrowWorker_9>./print_log.sh 
 Sat 2014.09.27 at 11:16:04 PM EEST sleep 59 finished
 Sat 2014.09.27 at 11:24:24 PM EEST sleep 139 finished
-
-linux17:/home/users/grad1302/project_ds/SparrowWorker_1>./print_log.sh 
-Sat 2014.09.27 at 11:16:10 PM EEST sleep 44 finished
-Sat 2014.09.27 at 11:24:39 PM EEST sleep 305 finished
 
 
 
