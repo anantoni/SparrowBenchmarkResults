@@ -3,8 +3,30 @@
 Random:
 ==========================================================================
 
+49921 ../SparrowWorker/log/stats.txt
+50034 ../SparrowWorker_1/log/stats.txt
+50168 ../SparrowWorker_2/log/stats.txt
+49877 ../SparrowWorker_3/log/stats.txt
 
+linux08:/home/users/grad1302/projects/SparrowWorker>./print_log.sh        
+Sun 2014.09.28 at 10:42:11 PM EEST sleep 92 finished
+Sun 2014.09.28 at 11:02:45 PM EEST sleep 162 finished
 
+linux17:/home/users/grad1302/projecds/SparrowWorker_1>./print_log.sh    
+Sun 2014.09.28 at 10:42:15 PM EEST sleep 92 finished
+Sun 2014.09.28 at 11:02:53 PM EEST sleep 162 finished
+
+linux19:/home/users/grad1302/projects/SparrowWorker_2>./print_log.sh      
+Sun 2014.09.28 at 10:42:26 PM EEST sleep 92 finished
+Sun 2014.09.28 at 11:03:04 PM EEST sleep 162 finished
+
+linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh      
+Sun 2014.09.28 at 10:42:29 PM EEST sleep 92 finished
+Sun 2014.09.28 at 11:03:06 PM EEST sleep 72 finished
+
+==========================================================================
+Per-task:
+==========================================================================
 
 200.000 tasks - 100ms mean, 2 clients, 2 schedulers, 6 workers
 ==========================================================================
