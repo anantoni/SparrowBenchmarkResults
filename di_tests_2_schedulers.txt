@@ -49,8 +49,6 @@ linux20:/home/users/grad1302/projects/SparrowWorker_3>./print_log.sh
 Sun 2014.09.28 at 11:08:34 PM EEST sleep 141 finished
 Sun 2014.09.28 at 11:29:41 PM EEST sleep 105 finished
 
---------------------------------------------------------------------------
-
 ==========================================================================
 Batch sampling:
 ==========================================================================
@@ -483,10 +481,6 @@ Mon 2014.09.29 at 01:23:15 AM EEST sleep 59 finished
 Mon 2014.09.29 at 01:31:58 AM EEST sleep 80 finished
 
 linux09:/home/users/grad1302/projects/SparrowWorker_8>./print_log.sh      
-Mon 2014.09.29 at 01:22:55 AM EEST sleep 3 finished
-Mon 2014.09.29 at 01:31:00 AM EEST sleep 93 finished
-
-linux09:/home/users/grad1302/project_ds/SparrowWorker_8>./print_log.sh      
 Mon 2014.09.29 at 01:22:55 AM EEST sleep 3 finished
 Mon 2014.09.29 at 01:31:00 AM EEST sleep 93 finished
 
