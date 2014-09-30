@@ -436,13 +436,6 @@ linux03:/home/users/grad1302/project_ds/SparrowWorker_7>./print_log.sh
 Tue 2014.09.30 at 03:44:40 AM EEST sleep 2 finished
 Tue 2014.09.30 at 03:55:15 AM EEST sleep 91 finished
 
-
-
-
-
-
-
-
 --------------------------------------------------------------------------
 
 200.000 tasks - 100ms mean 
@@ -506,6 +499,7 @@ Sat 2014.09.27 at 08:22:26 PM EEST sleep 52 finished
 ==========================================================================
 Per-task:
 ==========================================================================
+
 19952 ../SparrowWorker/log/stats.txt
 19996 ../SparrowWorker_1/log/stats.txt
 19948 ../SparrowWorker_2/log/stats.txt
